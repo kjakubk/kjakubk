@@ -19,7 +19,7 @@
 
 # *Hi! It's great to have you here.* 👋
 ![nointernet_dinogame_gif](https://user-images.githubusercontent.com/61251819/108845972-5a1d6f00-75de-11eb-952d-3ed5cc3ccd1b.gif)
-### 🔭 I’m currently working a final project with Pyhon :o 
+### 🔭 I’m currently working on a final project with Pyhon :o 
 ### 🌱 I’m currently learning game programming in Unity.
 ### 💬 Ask me about how to make good coffee.
 ### 📫 How to reach me: via email jakubkepczynski98@gmail.com
