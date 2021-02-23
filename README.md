@@ -27,4 +27,4 @@
 
 ## 😄About me:
 
-### I am an IT student with a specialization in programming. When I finish my engineering studies, I would like to go to a master's degree with a specialization in artificial intelligence. In the distant future, I plan to go to Japan and work as a programmer there. My studies made me addicted to caffeine, a day without coffee is a day wasted. ###
+### I am an IT student with a specialization in programming. When I finish my engineering studies, I would like to go to a master's degree with a specialization in artificial intelligence. In the future, I plan to go to Japan and work as a programmer there. My studies made me addicted to caffeine, a day without coffee is a day wasted. ###
