@@ -3,7 +3,7 @@
 <!--
 **kjakubk/kjakubk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+-->
 
 # <h1 align="center">*Hi! It's great to have you here* 👋</h1>
 <p align="center">
