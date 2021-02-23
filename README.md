@@ -5,7 +5,7 @@
 
  ##Here are some info about me:
 
-## 🔭 I’m currently working a final project with Pyhon :o 
+## 🔭 I’m currently working on a final project with Pyhon :o 
 ## 🌱 I’m currently learning game programming in Unity.
 # 👯 I’m looking to collaborate on ...
 # 🤔 I’m looking for help with ...
