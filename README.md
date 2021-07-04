@@ -8,7 +8,8 @@
 # <h1 align="center">*Hi! It's great to have you here* 👋</h1>
 <p align="center">
  <img src=https://user-images.githubusercontent.com/61251819/108845972-5a1d6f00-75de-11eb-952d-3ed5cc3ccd1b.gif></p>
-#### 💻 I work asVendor Specialist at Gonito
+ 
+#### 💻 I work as Vendor Specialist at Gonito
 #### 🔭 I’m currently working on a final project in Python :o
 #### 🌱 I’m currently learning design patterns and game programming in Unity.
 #### 🤝 I’m looking for help with design patterns
