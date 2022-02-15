@@ -11,7 +11,7 @@
  
 #### 💻 I work as Vendor Specialist at Gonito
 #### 🔭 I’m currently working on a final project in Python :o
-#### 🌱 I’m currently learning design patterns and game programming in Unity.
+#### 🌱 I’m currently learning design patterns and game programming in UE5.
 #### 🤝 I’m looking for help with design patterns
 #### 💬 Ask me about how to make good coffee.
 #### 📫 How to reach me: via email jakubkepczynski98@gmail.com
